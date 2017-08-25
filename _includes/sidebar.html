@@ -1,4 +1,8 @@
 <div class="sidebar ">
+  <img src="{{ site.logo }}" alt="{{ site.name }} | {{ site.description }}">
+</div>
+
+<div class="sidebar ">
   <h2>Recent Posts</h2>
   <ul>
     {% for post in site.posts limit:5 %}
