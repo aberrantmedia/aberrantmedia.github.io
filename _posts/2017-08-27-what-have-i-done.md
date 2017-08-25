@@ -17,6 +17,7 @@ tags:
 
 ## Friday, 08/25
 - lots of fun build changes to the site (they were not fun. they were tedious.) if you want more deets on that they're [here](https://github.com/aberrantmedia/aberrantmedia.github.io/commits/master)
+- some minor color changes to [goknba.how](http://goknba.how/)'s landing page (added a link to this site)
 - Conspiracy Theory watchin'
 
 ## Saturday, 08/26
