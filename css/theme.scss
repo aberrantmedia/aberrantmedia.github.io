@@ -27,8 +27,8 @@
 //$accent-color: #52B54B;  // green
 
 $font-color: #dddddd;
-$background-color: #292929;
-$post-panel-color: #444;
+$background-color: #333;
+$post-panel-color: #000;
 $footer-background-color: #292c2f;
 $note-color: #87CEFA;
 $warning-color: #ffff00;
@@ -39,8 +39,8 @@ $warning-color: #ffff00;
 body {
   padding-top: 80px;
   color: $font-color;
-  background: $background-color url(./pics/triangles.png);
-  //background: $background-color url(./pics/squares.png); // Another good pattern for background
+  //background: $background-color url(./pics/triangles.png);
+  background: $background-color url(./pics/squares.png); // Another good pattern for background
 }
 .well {
   background-color: $post-panel-color;
