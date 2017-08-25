@@ -2,6 +2,7 @@
 
 name: Aberrant Media
 description: media redefined
+logo: /images/aberrant-big.png
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: http://aberrantmedia.github.io
