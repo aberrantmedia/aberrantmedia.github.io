@@ -14,6 +14,10 @@ tags:
 ## Thursday, 08/24
 - [new theme for this site](https://github.com/streetturtle/jekyll-clean-dark)
 - [first post](/2017/08/what-is-this)
+
 ## Friday, 08/25
+- lots of fun build changes to the site (they were not fun. they were tedious.) if you want more deets on that they're [here](https://github.com/aberrantmedia/aberrantmedia.github.io/commits/master)
+- Conspiracy Theory watchin'
+
 ## Saturday, 08/26
 ## Sunday, 08/27
