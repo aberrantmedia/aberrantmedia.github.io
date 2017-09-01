@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Aberrant Media</title>
+		<description>media redefined</description>
+		<link>http://aberrantmedia.github.io</link>
+		<atom:link href="http://aberrantmedia.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>What Have I Done (this week)?</title>
+				<description>&lt;h2 id=&quot;thursday-0824&quot;&gt;Thursday, 08/24&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/streetturtle/jekyll-clean-dark&quot;&gt;new theme for this site&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2017/08/what-is-this&quot;&gt;first post&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;friday-0825&quot;&gt;Friday, 08/25&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;lots of fun build changes to the site (they were not fun. they were tedious.) if you want more deets on that they’re &lt;a href=&quot;https://github.com/aberrantmedia/aberrantmedia.github.io/commits/master&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;some minor color changes to &lt;a href=&quot;http://goknba.how/&quot;&gt;goknba.how&lt;/a&gt;’s landing page &amp;amp; added a link to this site&lt;/li&gt;
+  &lt;li&gt;Conspiracy Theory watchin’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;saturday-0826&quot;&gt;Saturday, 08/26&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;opened ticket for reimaging of a vps (because apparently I had fucked it up so much that I couldn’t even display .php files)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sunday-0827&quot;&gt;Sunday, 08/27&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;still waiting for reimaging to finish&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<pubDate>Sun, 27 Aug 2017 00:00:00 -0400</pubDate>
+				<link>http://aberrantmedia.github.io/2017/08/what-have-i-done</link>
+				<guid isPermaLink="true">http://aberrantmedia.github.io/2017/08/what-have-i-done</guid>
+			</item>
+		
+			<item>
+				<title>What is This?</title>
+				<description>&lt;h2 id=&quot;aberrant-media-the-fuck&quot;&gt;“Aberrant Media”? The fuck?&lt;/h2&gt;
+&lt;p&gt;This is a #business where I make things.&lt;/p&gt;
+
+&lt;p&gt;Media things; stuff you can see or hear (or, if you live close enough, smell and taste).&lt;/p&gt;
+
+&lt;p&gt;And maybe feel. Like in your soul. If you have one.&lt;/p&gt;
+
+&lt;p&gt;Blame &lt;a href=&quot;https://cybre.space/@ccolocho&quot;&gt;Cristian&lt;/a&gt; and &lt;a href=&quot;https://instance.business/@standardmedia&quot;&gt;Standard Media&lt;/a&gt;, if you want to.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 24 Aug 2017 16:45:00 -0400</pubDate>
+				<link>http://aberrantmedia.github.io/2017/08/what-is-this</link>
+				<guid isPermaLink="true">http://aberrantmedia.github.io/2017/08/what-is-this</guid>
+			</item>
+		
+	</channel>
+</rss>
