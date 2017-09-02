@@ -25,6 +25,8 @@ tags:
 ## Friday, 09/01
 - drew a shitload of furry sketches
 - revamped [Gerhildt's Patreon](https://www.patreon.com/Gerhildt) (which is mostly about drawing shitloads of furry art)
+- apparently it was #FurryFriday ¯\_(ツ)_/¯
+- Linux Mint is Real (I actually rebooted my HP laptop for the first time in seven million years and booted up Mint instead of fuckin' Windows)
 
 ## Saturday, 09/02
 
