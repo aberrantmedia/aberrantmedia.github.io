@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: "What Have I Done (this week)?"
 date: 2017-09-03 13:00:00
 description: "A smol detailing of what I've worked on this week"
@@ -29,5 +28,5 @@ tags:
 - Linux Mint is Real (I actually rebooted my HP laptop for the first time in seven million years and booted up Mint instead of fuckin' Windows)
 
 ## Saturday, 09/02
-
 ## Sunday, 09/03
+- Saturday & Sunday were Real Dayjob Hours. I didn't do much else.
